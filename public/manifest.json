@@ -1,0 +1,25 @@
+{
+  "short_name": "hoster.pk",
+  "name": "Create React App Sample",
+  "icons": [
+    {
+      "src": "https://hoster.pk/wp-content/uploads/2019/08/logo.png",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/x-icon"
+    },
+    {
+      "src": "https://hoster.pk/wp-content/uploads/2019/08/logo.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "https://hoster.pk/wp-content/uploads/2019/08/logo.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": "https://hoster.pk/wp-content/uploads/2019/08/logo.png",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
